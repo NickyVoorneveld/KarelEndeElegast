@@ -3,7 +3,8 @@
         "path": "Manuscript_F",
         "name": "Manuscript_F",
         "pages": [
-            "F1recto"
+            "F1recto",
+            "F1verso"
         ],
         "picturesAvailable": true
     },
