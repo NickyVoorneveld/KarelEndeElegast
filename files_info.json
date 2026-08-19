@@ -1,5 +1,13 @@
 [
     {
+        "path": "Manuscript_F",
+        "name": "Manuscript_F",
+        "pages": [
+            "F1recto"
+        ],
+        "picturesAvailable": true
+    },
+    {
         "path": "sample_1",
         "name": "Woolf Sample",
         "pages": [
