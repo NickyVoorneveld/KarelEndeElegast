@@ -28,10 +28,10 @@
       <zone points="522,1861 584,1860 647,1855 709,1852 772,1852 834,1849 897,1849 959,1849 1022,1845 1084,1839 1147,1834 1210,1838 1272,1838 1335,1834 1397,1832 1460,1834 1522,1829 1585,1827 1647,1824 1710,1822 1773,1822 1773,1738 1710,1738 1647,1740 1585,1743 1522,1745 1460,1750 1397,1748 1335,1750 1272,1754 1210,1754 1147,1750 1084,1755 1022,1761 959,1765 897,1765 834,1765 772,1768 709,1768 647,1771 584,1776 522,1777" rendition="Line" xml:id="facs__eSc_line_12" subtype="default"/>
       <zone points="522,1974 583,1980 644,1980 705,1977 766,1977 827,1977 888,1974 949,1974 1010,1972 1071,1971 1132,1968 1193,1968 1254,1968 1315,1964 1376,1962 1437,1962 1498,1957 1559,1953 1620,1953 1681,1951 1743,1950 1743,1866 1681,1867 1620,1869 1559,1869 1498,1873 1437,1878 1376,1878 1315,1880 1254,1884 1193,1884 1132,1884 1071,1887 1010,1888 949,1890 888,1890 827,1893 766,1893 705,1893 644,1896 583,1896 522,1890" rendition="Line" xml:id="facs__eSc_line_13" subtype="default"/>
       <zone points="537,2108 603,2111 669,2108 735,2108 801,2107 867,2105 933,2105 999,2105 1065,2100 1131,2100 1197,2097 1263,2093 1329,2090 1395,2088 1461,2087 1527,2078 1593,2072 1659,2077 1725,2075 1791,2075 1857,2072 1857,1981 1791,1984 1725,1984 1659,1986 1593,1981 1527,1987 1461,1996 1395,1997 1329,1999 1263,2002 1197,2006 1131,2009 1065,2009 999,2014 933,2014 867,2014 801,2016 735,2017 669,2017 603,2020 537,2017" rendition="Line" xml:id="facs__eSc_line_14" subtype="default"/>
-      <zone points="528,2235 577,2234 627,2235 677,2229 727,2230 777,2232 827,2231 876,2229 926,2229 976,2229 1026,2226 1076,2226 1126,2229 1176,2227 1225,2227 1275,2222 1325,2220 1375,2218 1425,2215 1475,2211 1525,2205 1525,2118 1475,2124 1425,2128 1375,2131 1325,2133 1275,2135 1225,2140 1176,2140 1126,2142 1076,2139 1026,2139 976,2142 926,2142 876,2142 827,2144 777,2145 727,2143 677,2142 627,2148 577,2147 528,2148" rendition="Line" xml:id="facs__eSc_line_16" subtype="default"/>
-      <zone points="537,2350 591,2356 645,2353 700,2357 754,2357 808,2356 863,2356 917,2356 971,2352 1026,2348 1080,2352 1134,2353 1189,2352 1243,2348 1297,2348 1352,2347 1406,2347 1460,2340 1515,2336 1569,2333 1624,2311 1624,2229 1569,2251 1515,2254 1460,2258 1406,2265 1352,2265 1297,2266 1243,2266 1189,2270 1134,2271 1080,2270 1026,2266 971,2270 917,2274 863,2274 808,2274 754,2275 700,2275 645,2271 591,2274 537,2268" rendition="Line" xml:id="facs__eSc_line_18" subtype="default"/>
-      <zone points="513,2477 584,2481 655,2482 726,2487 797,2486 869,2487 940,2486 1011,2487 1082,2487 1153,2483 1225,2484 1296,2479 1367,2477 1438,2473 1509,2471 1581,2469 1652,2464 1723,2463 1794,2456 1865,2449 1937,2457 1937,2367 1865,2359 1794,2366 1723,2373 1652,2374 1581,2379 1509,2381 1438,2383 1367,2387 1296,2389 1225,2394 1153,2393 1082,2397 1011,2397 940,2396 869,2397 797,2396 726,2397 655,2392 584,2391 513,2387" rendition="Line" xml:id="facs__eSc_line_19" subtype="default"/>
-      <zone points="552,2609 604,2611 656,2609 709,2615 761,2615 814,2617 866,2616 918,2618 971,2621 1023,2624 1076,2624 1128,2622 1180,2621 1233,2618 1285,2615 1338,2611 1390,2609 1442,2607 1495,2606 1547,2603 1600,2600 1600,2509 1547,2512 1495,2515 1442,2516 1390,2518 1338,2520 1285,2524 1233,2527 1180,2530 1128,2531 1076,2533 1023,2533 971,2530 918,2527 866,2525 814,2526 761,2524 709,2524 656,2518 604,2520 552,2518" rendition="Line" xml:id="facs__eSc_line_22" subtype="default"/>
+      <zone points="528,2235 577,2234 627,2235 677,2229 727,2230 777,2232 827,2231 876,2229 926,2229 976,2229 1026,2226 1076,2226 1126,2229 1176,2227 1225,2227 1275,2222 1325,2220 1375,2218 1425,2215 1475,2211 1525,2205 1525,2118 1475,2124 1425,2128 1375,2131 1325,2133 1275,2135 1225,2140 1176,2140 1126,2142 1076,2139 1026,2139 976,2142 926,2142 876,2142 827,2144 777,2145 727,2143 677,2142 627,2148 577,2147 528,2148" rendition="Line" xml:id="facs__eSc_line_15" subtype="default"/>
+      <zone points="537,2350 591,2356 645,2353 700,2357 754,2357 808,2356 863,2356 917,2356 971,2352 1026,2348 1080,2352 1134,2353 1189,2352 1243,2348 1297,2348 1352,2347 1406,2347 1460,2340 1515,2336 1569,2333 1624,2311 1624,2229 1569,2251 1515,2254 1460,2258 1406,2265 1352,2265 1297,2266 1243,2266 1189,2270 1134,2271 1080,2270 1026,2266 971,2270 917,2274 863,2274 808,2274 754,2275 700,2275 645,2271 591,2274 537,2268" rendition="Line" xml:id="facs__eSc_line_16" subtype="default"/>
+      <zone points="513,2477 584,2481 655,2482 726,2487 797,2486 869,2487 940,2486 1011,2487 1082,2487 1153,2483 1225,2484 1296,2479 1367,2477 1438,2473 1509,2471 1581,2469 1652,2464 1723,2463 1794,2456 1865,2449 1937,2457 1937,2367 1865,2359 1794,2366 1723,2373 1652,2374 1581,2379 1509,2381 1438,2383 1367,2387 1296,2389 1225,2394 1153,2393 1082,2397 1011,2397 940,2396 869,2397 797,2396 726,2397 655,2392 584,2391 513,2387" rendition="Line" xml:id="facs__eSc_line_17" subtype="default"/>
+      <zone points="552,2609 604,2611 656,2609 709,2615 761,2615 814,2617 866,2616 918,2618 971,2621 1023,2624 1076,2624 1128,2622 1180,2621 1233,2618 1285,2615 1338,2611 1390,2609 1442,2607 1495,2606 1547,2603 1600,2600 1600,2509 1547,2512 1495,2515 1442,2516 1390,2518 1338,2520 1285,2524 1233,2527 1180,2530 1128,2531 1076,2533 1023,2533 971,2530 918,2527 866,2525 814,2526 761,2524 709,2524 656,2518 604,2520 552,2518" rendition="Line" xml:id="facs__eSc_line_18" subtype="default"/>
     </surface>
   </facsimile>
   <text>
@@ -39,24 +39,24 @@
       <div>
         <pb facs="#facs_" n="" xml:id="img_NaN"/>
         <ab facs="#facs__eSc_dummyblock_">
-          <l facs="#facs__eSc_line_1">Soe dat die coninc was in vare</l>
-          <l facs="#facs__eSc_line_2">Ende waende dat die duuel ware</l>
-          <l facs="#facs__eSc_line_3">Hi sloech ten swerten opten schilt</l>
-          <l facs="#facs__eSc_line_4">Dien hi manlic voer hem hilt</l>
-          <l facs="#facs__eSc_line_5">Datti in tween stucken vloech</l>
-          <l facs="#facs__eSc_line_6">Oft ware een linden loef</l>
-          <l facs="#facs__eSc_line_7">Die swerte sloech den coninc weder</l>
-          <l facs="#facs__eSc_line_8">Die swerde ghinghen op ende neder</l>
-          <l facs="#facs__eSc_line_9">Opten helme op die maelgien</l>
-          <l facs="#facs__eSc_line_10">Datter menich moeste faelgien</l>
-          <l facs="#facs__eSc_line_11">Daer ē was halsberch gheē so goet</l>
-          <l facs="#facs__eSc_line_12">Daer en dranc dore dat bloet</l>
-          <l facs="#facs__eSc_line_13">Doer die maelgien vter huut</l>
-          <l facs="#facs__eSc_line_14">Daer van sloghen groet gheluut</l>
-          <l facs="#facs__eSc_line_16">Die helmē op haer hoeft die boghē</l>
-          <l facs="#facs__eSc_line_18">Soe scarp warē der swaerdē egghē</l>
-          <l facs="#facs__eSc_line_19">Die spaenderē vādē scilt d' vloghen</l>
-          <l facs="#facs__eSc_line_22">Soe scarp warē der swaerdē egghē</l>
+          <l facs="#facs__eSc_line_1">S</hi>oe dat die coninc was in vare</l>
+          <l facs="#facs__eSc_line_2">E</hi>nde waende dat die duuel ware</l>
+          <l facs="#facs__eSc_line_3">H</hi>i sloech ten swerten opten schilt</l>
+          <l facs="#facs__eSc_line_4">D</hi>ien hi manlic voer hem hilt</l>
+          <l facs="#facs__eSc_line_5">D</hi>atti in tween stucken vloech</l>
+          <l facs="#facs__eSc_line_6">O</hi>ft ware een linden loef</l>
+          <l facs="#facs__eSc_line_7">D</hi>ie swerte sloech den coninc weder</l>
+          <l facs="#facs__eSc_line_8">D</hi>ie swerde ghinghen op ende neder</l>
+          <l facs="#facs__eSc_line_9">O</hi>pten helme op die maelgien</l>
+          <l facs="#facs__eSc_line_10">D</hi>atter menich moeste faelgien</l>
+          <l facs="#facs__eSc_line_11">D</hi>aer <choice><abbr>ē<g ref="#bar"/></abbr><expan>e<ex>n</ex></expan></choice> was halsberch <choice><abbr>gheē<g ref="#bar"/></abbr><expan>ghee<ex>n</ex></expan></choice> so goet</l>
+          <l facs="#facs__eSc_line_12">D</hi>aer en dranc dore dat bloet</l>
+          <l facs="#facs__eSc_line_13">D</hi>oer die maelgien vter huut</l>
+          <l facs="#facs__eSc_line_14">D</hi>aer van sloghen groet gheluut</l>
+          <l facs="#facs__eSc_line_15">D</hi>ie <choice><abbr>spaenderē<g ref="#bar"/></abbr><expan>spaendere<ex>n</ex></expan></choice> <choice><abbr>vā<g ref="#bar"/>dē<g ref="#bar"/></abbr><expan>va<ex>n</ex>de<ex>n</ex></expan></choice> scilt <choice><abbr>d'<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> vloghen</l>
+          <l facs="#facs__eSc_line_16">D</hi>ie <choice><abbr>helmē<g ref="#bar"/></abbr><expan>helme<ex>n</ex></expan></choice> op haer hoeft die <choice><abbr>boghē<g ref="#bar"/></abbr><expan>boghe<ex>n</ex></expan></choice</l>
+          <l facs="#facs__eSc_line_17">E</hi>n̄<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ontfinghen scaerde <choice><abbr>en̄<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>vlegghē<g ref="#bar"/></abbr><expan>vlegghe<ex>n</ex></expan></choice></l>
+          <l facs="#facs__eSc_line_18">S</hi>oe scarp <choice><abbr>warē<g ref="#bar"/></abbr><expan>ware<ex>n</ex></expan></choice> der <choice><abbr>swaerdē<g ref="#bar"/></abbr><expan>swaerde<ex>n</ex></expan></choice> <choice><abbr>egghē<g ref="#bar"/></abbr><expan>egghe<ex>n</ex></expan></choice></l>
         </ab>
       </div>
     </body>
