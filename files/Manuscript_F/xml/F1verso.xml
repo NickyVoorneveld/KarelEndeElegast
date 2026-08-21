@@ -39,7 +39,7 @@
       <div>
         <pb facs="#facs_" n="" xml:id="img_NaN"/>
         <ab facs="#facs__eSc_dummyblock_">
-          <l facs="#facs__eSc_line_1">DIe coninc peynsde in <choice><abbr>sinē<g ref="#bar"/></abbr><expan>sine<ex>n</ex></expan></choice> moet</l>
+          <l facs="#facs__eSc_line_1">DIe coninc peynsde in <choice><abbr>sinē</abbr><expan>sine<ex>n</ex></expan></choice> moet</l>
           <l facs="#facs__eSc_line_2">Dese es te wapene goet</l>
           <l facs="#facs__eSc_line_3">Sal ic liden mijns namen</l>
           <l facs="#facs__eSc_line_4">Ic souts mi ewelic scamen</l>
@@ -48,8 +48,8 @@
           <l facs="#facs__eSc_line_7">Opten swaerten die voer hem hielt</l>
           <l facs="#facs__eSc_line_8">Dat hien manlic hadde gheuelt</l>
           <l facs="#facs__eSc_line_9">Ende vanden ors tumelen dede</l>
-          <l facs="#facs__eSc_line_10"><choice><abbr>Tusschē<g ref="#bar"/></abbr><expan>Tussche<ex>n</ex></expan></choice> hem <choice><abbr>beidē<g ref="#bar"/></abbr><expan>beide<ex>n</ex></expan></choice> was ghene vrede</l>
-          <l facs="#facs__eSc_line_11">Ende die swaerte sloech <choice><abbr>optē<g ref="#bar"/></abbr><expan>opte<ex>n</ex></expan></choice> heere</l>
+          <l facs="#facs__eSc_line_10"><choice><abbr>Tusschē</abbr><expan>Tussche<ex>n</ex></expan></choice> hem <choice><abbr>beidē</abbr><expan>beide<ex>n</ex></expan></choice> was ghene vrede</l>
+          <l facs="#facs__eSc_line_11">Ende die swaerte sloech <choice><abbr>optē</abbr><expan>opte<ex>n</ex></expan></choice> heere</l>
           <l facs="#facs__eSc_line_12">Ende sloech enen slach soe seere</l>
           <l facs="#facs__eSc_line_13">Opten helm dat hi boech</l>
           <l facs="#facs__eSc_line_14">Ende swaert in twe stucken vloech</l>
